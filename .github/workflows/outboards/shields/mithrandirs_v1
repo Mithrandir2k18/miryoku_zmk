@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=Mithrandir2k18/v1-zmk-config
+outboard_ref=main
+outboard_from=boards/shields/mithrandirs_v1
+outboard_to=boards/shields/mithrandirs_v1
